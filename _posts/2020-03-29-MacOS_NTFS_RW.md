@@ -55,6 +55,6 @@ $ sudo /usr/local/bin/ntfs-3g /dev/disk2s1 /Volumes/ExtraHDD -olocal -oallow_oth
 
 [참고] 
 
-* https://blog.fosketts.net/2010/11/29/write-windows-ntfs-drive-mac-os-106-snow-leopard/
-* https://blog.kylehuynh.com/mount-ntfs-drive-with-readwrite-mode-in-mac-os/
+* <a href="https://blog.fosketts.net/2010/11/29/write-windows-ntfs-drive-mac-os-106-snow-leopard/" MacOSX ntfs 마운트 방법 2가지>
+* <a href="https://blog.kylehuynh.com/mount-ntfs-drive-with-readwrite-mode-in-mac-os/" MacOSX home brew로 ntfs-3g 설치하기>
 

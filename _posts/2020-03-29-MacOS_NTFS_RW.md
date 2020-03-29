@@ -50,7 +50,7 @@ $ sudo /usr/local/bin/ntfs-3g /dev/disk2s1 /Volumes/ExtraHDD -olocal -oallow_oth
 
 
 
-그러면 아래와 같이 바탕화면에 마운트 한 디스크가 보인다. 이 디스크는 읽기 및 쓰기가 가능해졌다!!
+바탕화면에 <b>"OSXFUSE Volume"</b> 이름으로 마운트 한 디스크가 보인다. 이 디스크는 읽기 및 쓰기가 가능해졌다!!
 
 
 [참고] 

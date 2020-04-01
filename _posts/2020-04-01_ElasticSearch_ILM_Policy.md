@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elasticsearch Index LifeCyle 관리
-tag: ELK,elasticsearch
+tag: ELK elasticsearch
 subtitle: Elasticsearch Index LifeCyle 관리
 ---
 

@@ -110,15 +110,15 @@ GET /fluentbit-*/_ilm/explain?pretty
 
 위의 내용들을 수행하면 정책이 적용 되었다.  Kibana와 연동을 했다면, kibana WEB-UI에서 Management > Elasticsearch > Index Lifecyle Policies 메뉴을 선택하면 위의 과정을 통해서 생성한 내용을 볼수 있다.
 
-<img src="./img/2020-04-01 15_47_29-Kibana.png" alt="2020-04-01 15_47_29-Kibana" style="zoom:50%;" />
+<img src="../img/2020-04-01 15_47_29-Kibana.png" alt="2020-04-01 15_47_29-Kibana" style="zoom:50%;" />
 
 그런데 의아한게 Linked indices 가 0 이다. 이는 우리가 Index를 ILM 정책에 적용한 것이 아니라 템플릿을 적용했기 때문에 그렇다. 
 
-<img src="./img/2020-04-01 15_47_50-Kibana.png" alt="2020-04-01 15_47_50-Kibana" style="zoom:50%;" />
+<img src="../img/2020-04-01 15_47_50-Kibana.png" alt="2020-04-01 15_47_50-Kibana" style="zoom:50%;" />
 
 적용한 템플릿은 ILM 정책 우측에 Actions 에서 Add Policy to Index template 를 클릭하고 Index template 리스트 박스를 누르면 fluentbit_template 라는 템플릿이 보인다. 이걸 선택하면 Template already has policy 로 이미 적용되어 있다는 경고 문구를 볼 수 있다. 
 
-<img src="./img/2020-04-01 15_48_15-Kibana.png" alt="2020-04-01 15_48_15-Kibana" style="zoom:50%;" />
+<img src="../img/2020-04-01 15_48_15-Kibana.png" alt="2020-04-01 15_48_15-Kibana" style="zoom:50%;" />
 
 
 

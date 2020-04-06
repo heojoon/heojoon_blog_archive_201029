@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Elasticsearch_Index_LifeCyle_관리
-tag: ELK elasticsearch
-subtitle: Elasticsearch Index LifeCyle 관리
+title: GCP 시험문제 샘플
+tag: GCP,Exam
+subtitle: GCP 시험문제 샘플
 ---
 
 

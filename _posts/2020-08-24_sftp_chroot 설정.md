@@ -1,4 +1,4 @@
-# sftp + chroot 설정
+# sftp 와 chroot 설정
 
 ---
 

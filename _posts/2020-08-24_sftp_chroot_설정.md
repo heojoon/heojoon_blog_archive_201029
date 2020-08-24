@@ -7,7 +7,6 @@ subtitle: user and group 별 디렉토리 접근 통제
 
 # sftp 와 chroot 설정
 
-
 - **환경** 
 
   OS :  CentOS Linux release 7.6.1810 (Core)

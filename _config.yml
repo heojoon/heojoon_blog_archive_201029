@@ -1,4 +1,3 @@
-# --- General options --- #
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
@@ -15,9 +14,13 @@ baseurl: ""
 
 # Name of website
 title: Know-How for IT systems
+lang: en
 
 # Short description of your site
-description: 실무에 도움되는 IT 노하우 모움.
+description: Write various IT Knowledge to share
+
+theme: jekyll-rtd-theme
+
 
 # --- Navigation bar options --- #
 
